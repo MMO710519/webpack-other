@@ -1,0 +1,2 @@
+//エントリーポイント
+console.log('search');
